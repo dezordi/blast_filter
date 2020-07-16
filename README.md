@@ -12,6 +12,7 @@ This script was build on python 3.6.5+ and have these dependencies:
 
 To use conda enviroment:
 > conda env create -f blast_filter.yml
+
 > conda activate blast_filter
 
 ## Usage
