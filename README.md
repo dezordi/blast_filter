@@ -10,6 +10,10 @@ This script was build on python 3.6.5+ and have these dependencies:
 - [numpy](https://numpy.org/);
 - [argparse](https://docs.python.org/3/library/argparse.html);
 
+To use conda enviroment:
+> conda env create -f blast_filter.yml
+> conda activate blast_filter
+
 ## Usage
 
 - python blast_filter.py -in blast_output
